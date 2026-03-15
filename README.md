@@ -38,8 +38,8 @@ medmnist_efficientnet_project/
 │   └── train.py            # Contains training, validation, testing, and prediction logic
 ├── best_model.pth          # Saved best model weights during training
 └── README.md               # Project overview and documentation
+└── main_notebook.ipynb
 ```
-
 ---
 
 ## DatasetS
